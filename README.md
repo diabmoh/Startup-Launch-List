@@ -2,13 +2,13 @@
 
 # 🚀 Startup Launch List
 
-### 583+ directories to submit your startup, SaaS, dev tool, or AI product.
+### 593+ directories to submit your startup, SaaS, dev tool, or AI product.
 
 ### Curated. Categorized. Community-maintained.
 
-[![Directories](https://img.shields.io/badge/Directories-583-blue?style=for-the-badge)](data/directories.json)
-[![DR Data](https://img.shields.io/badge/With_DR_Data-583-green?style=for-the-badge)](data/directories.csv)
-[![Dofollow](https://img.shields.io/badge/Dofollow-371-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
+[![Directories](https://img.shields.io/badge/Directories-593-blue?style=for-the-badge)](data/directories.json)
+[![DR Data](https://img.shields.io/badge/With_DR_Data-584-green?style=for-the-badge)](data/directories.csv)
+[![Dofollow](https://img.shields.io/badge/Dofollow-375-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **[Browse by Category](#-browse-by-category)** · **[Top 20 by DR](#-top-20-highest-authority-directories)** · **[Submission Strategy](#-submission-strategy)** · **[JSON](data/directories.json)** · **[CSV](data/directories.csv)**
@@ -35,11 +35,11 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | | Count |
 |---|------:|
-| 📁 Total directories | **583** |
-| 📈 With Domain Rating data | **583** |
-| ✅ Dofollow backlinks | **371** |
-| ❌ Nofollow backlinks | **212** |
-| 🆓 Free or Freemium | **91** |
+| 📁 Total directories | **593** |
+| 📈 With Domain Rating data | **584** |
+| ✅ Dofollow backlinks | **375** |
+| ❌ Nofollow backlinks | **214** |
+| 🆓 Free or Freemium | **99** |
 
 </div>
 
@@ -47,10 +47,10 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | Category | Count | |
 |----------|------:|---|
-| 🚀 Startup Directory | 424 | ██████████████████████████████████████████ |
-| ⭐️ Review Directory | 45 | ████ |
+| 🚀 Startup Directory | 432 | ██████████████████████████████████████████ |
+| ⭐️ Review Directory | 46 | ████ |
 | 👥 Community | 28 | ██ |
-| 🤖 AI Directory | 27 | ██ |
+| 🤖 AI Directory | 28 | ██ |
 | 🗞 Press Coverage | 20 | ██ |
 | 📂 General Directory | 18 | █ |
 | 🧩 SaaS Marketplace | 8 | █ |
@@ -96,14 +96,14 @@ Start here. These give the most SEO value.
 
 Jump to a category:
 
-> 🚀 [Startup Directories](#-startup-directory-424) · ⭐️ [Review Sites](#-review-directory-45) · 👥 [Communities](#-community-28) · 🤖 [AI Directories](#-ai-directory-27) · 🗞 [Press & Media](#-press-coverage-20) · 📂 [General Directories](#-general-directory-18) · 🧩 [SaaS Marketplaces](#-saas-marketplace-8) · 💫 [Other](#-other-5) · 💻 [Software](#-software-directory-2) · 🌍 [International](#-international-2) · 🤝 [API Marketplaces](#-api-marketplace-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire----sell-1)
+> 🚀 [Startup Directories](#-startup-directory-432) · ⭐️ [Review Sites](#-review-directory-46) · 👥 [Communities](#-community-28) · 🤖 [AI Directories](#-ai-directory-28) · 🗞 [Press & Media](#-press-coverage-20) · 📂 [General Directories](#-general-directory-18) · 🧩 [SaaS Marketplaces](#-saas-marketplace-8) · 💫 [Other](#-other-5) · 💻 [Software](#-software-directory-2) · 🌍 [International](#-international-2) · 🤝 [API Marketplaces](#-api-marketplace-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire----sell-1)
 
 ---
 
 
-### 🚀 Startup Directory (424)
+### 🚀 Startup Directory (432)
 
-Top DR: **96** · Dofollow: **270**
+Top DR: **96** · Dofollow: **274**
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -119,7 +119,7 @@ Top DR: **96** · Dofollow: **270**
 | [Fast Company](https://www.fastcompany.com) | **91** | ❌ Nofollow | — | Business media brand focused on innovation, technology, leadership, and world-changing ideas. |
 
 <details>
-<summary>View all 424 directories</summary>
+<summary>View all 432 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -196,6 +196,7 @@ Top DR: **96** · Dofollow: **270**
 | [Change Log](http://changelog.com/sponsor/pricing) | **72** | ❌ Nofollow | — | Open source community and podcast network covering developer tools, infrastructure, and software development. |
 | [Pando](https://pando.com) | **72** | ❌ Nofollow | — | Silicon Valley technology news platform covering startups, venture capital, and tech industry personalities. |
 | [Site Jabber](https://www.siteiabber.com) | **72** | ❌ Nofollow | — | Consumer review platform where users rate and review online businesses, helping others make informed decisions. |
+| [Product Watch](https://productwatch.io) | **72** | ✅ Dofollow | — | Daily feed where people launch, upvote, and discover new tech products and startups, with a permanent dofollow backlink. |
 | [PeerPush](https://peerpush.net) | **71** | ✅ Dofollow | — | A community-driven startup directory with high domain rating that rewards you for spotlighting the next big thing whi... |
 | [TinyLaunch](https://www.tinylaunch.com) | **71** | ✅ Dofollow | — | Product launch platform with visibility |
 | [Starter Story](https://www.starterstory.com/share) | **71** | ✅ Dofollow | — | Platform featuring interviews with successful founders sharing how they built and grew their businesses. |
@@ -547,11 +548,18 @@ Top DR: **96** · Dofollow: **270**
 | [Sumodir](https://sumodir.com) | 7 | ✅ Dofollow | — | Startup and SaaS directory offering curated product listings with descriptions, categories, and launch visibility. |
 | [Versily](https://versily.com) | 1 | ✅ Dofollow | — | Product listing and discovery platform helping startups and SaaS products reach a broader audience. |
 | [launch.cab](https://launch.cab) | 1 | ✅ Dofollow | — | Startup launch directory helping founders submit and promote their products for early traction and backlinks. |
+| [Altimateguide](https://altimateguide.com) | — | ✅ Dofollow | Freemium | Manually reviewed software directory with tool profiles, comparisons, and alternatives; free listing via badge or $14.99 one-time. |
+| [EarlyHunt](https://earlyhunt.com) | — | ❌ Nofollow | Freemium | Weekly launch platform and AI tools directory for reaching early adopters; free with badge (nofollow), $19 Premium for dofollow. |
+| [IndieHunt](https://indiehunt.io) | — | ❌ Nofollow | Freemium | Weekly launch competition for AI tools and indie SaaS; free with badge (nofollow), $19 Premium for a guaranteed dofollow link. |
+| [JustLaunched](https://justlaunched.fyi) | — | — | Free | Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters. |
+| [LaunchOn.it](https://launchon.it) | — | ✅ Dofollow | — | Weekly launch platform where startups and AI tools launch in cohorts with community upvoting. |
+| [StarTap](https://startap.cc) | — | — | Free | Gamified free startup directory where makers list websites and compete for Stars on daily and all-time leaderboards. |
+| [Uno Directory](https://uno.directory) | — | ✅ Dofollow | Freemium | Curated directory of productivity, AI, design, development, and SaaS tools; free listing with a backlink or paid from $20. |
 
 </details>
 
 
-### ⭐️ Review Directory (45)
+### ⭐️ Review Directory (46)
 
 Top DR: **93** · Dofollow: **19**
 
@@ -569,7 +577,7 @@ Top DR: **93** · Dofollow: **19**
 | [GetApp](https://getapp.com) | **76** | ❌ Nofollow | — | Software recommendation engine powered by Gartner, helping SMBs find and compare business software solutions. |
 
 <details>
-<summary>View all 45 directories</summary>
+<summary>View all 46 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -618,6 +626,7 @@ Top DR: **93** · Dofollow: **19**
 | [SuitApp](https://suitapp.de) | 25 | ✅ Dofollow | — | German software review and discovery platform helping businesses find suitable software applications. |
 | [App Review Central](http://www.appreviewcentral.net/app-sub) | 22 | ❌ Nofollow | — | Centralized app review platform offering mobile application reviews and developer submission services. |
 | [Tech Directory](http://techdirectory.io/get-listed) | 18 | ✅ Dofollow | — | Technology product directory offering listing services for tech companies and software products. |
+| [AppLensy](https://applensy.com) | — | — | Freemium | Software discovery and comparison directory with free reviewed listings and optional paid promotion. |
 
 </details>
 
@@ -676,7 +685,7 @@ Top DR: **91** · Dofollow: **20**
 </details>
 
 
-### 🤖 AI Directory (27)
+### 🤖 AI Directory (28)
 
 Top DR: **91** · Dofollow: **26**
 
@@ -694,7 +703,7 @@ Top DR: **91** · Dofollow: **26**
 | [AI Agents Directory](https://aiagentsdirectory.com) | 43 | ✅ Dofollow | Freemium | Specialized directory focused on AI agents and autonomous AI tools, helping users find AI agents for automation and p... |
 
 <details>
-<summary>View all 27 directories</summary>
+<summary>View all 28 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -725,6 +734,7 @@ Top DR: **91** · Dofollow: **26**
 | [Expify](https://expify.ai) | 21 | ✅ Dofollow | Freemium | AI tools discovery platform helping users explore and compare AI-powered products for business and personal use. |
 | [Lachief.io](https://lachief.io) | 21 | ✅ Dofollow | Freemium | AI tools directory and launch platform helping AI product makers get visibility and users discover new AI tools. |
 | [NewAIForYou](https://newaiforyou.com) | 20 | ✅ Dofollow | Freemium | Daily-updated AI tools directory showcasing the newest AI products and tools for various use cases. |
+| [FalcoScan](https://falcoscan.com) | — | — | Freemium | AI market tracker and directory covering 8,000+ AI products across 30 markets; free listing, paid plans for market data. |
 
 </details>
 

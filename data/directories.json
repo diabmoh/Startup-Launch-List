@@ -387,6 +387,15 @@
     "description": "Featuring over 20,000 awesome AI tools"
   },
   {
+    "name": "Product Watch",
+    "url": "https://productwatch.io",
+    "domain_rating": 72,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Daily feed where people launch, upvote, and discover new tech products and startups, with a permanent dofollow backlink."
+  },
+  {
     "name": "HotVsNot.Com",
     "url": "https://www.hotvsnot.com",
     "domain_rating": 71,
@@ -5245,5 +5254,86 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "Altimateguide",
+    "url": "https://altimateguide.com",
+    "domain_rating": null,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Manually reviewed software directory with tool profiles, comparisons, and alternatives; free listing via badge or $14.99 one-time."
+  },
+  {
+    "name": "AppLensy",
+    "url": "https://applensy.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "⭐️ Review Directory",
+    "description": "Software discovery and comparison directory with free reviewed listings and optional paid promotion."
+  },
+  {
+    "name": "EarlyHunt",
+    "url": "https://earlyhunt.com",
+    "domain_rating": null,
+    "link_type": "Nofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Weekly launch platform and AI tools directory for reaching early adopters; free with badge (nofollow), $19 Premium for dofollow."
+  },
+  {
+    "name": "FalcoScan",
+    "url": "https://falcoscan.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI market tracker and directory covering 8,000+ AI products across 30 markets; free listing, paid plans for market data."
+  },
+  {
+    "name": "IndieHunt",
+    "url": "https://indiehunt.io",
+    "domain_rating": null,
+    "link_type": "Nofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Weekly launch competition for AI tools and indie SaaS; free with badge (nofollow), $19 Premium for a guaranteed dofollow link."
+  },
+  {
+    "name": "JustLaunched",
+    "url": "https://justlaunched.fyi",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters."
+  },
+  {
+    "name": "LaunchOn.it",
+    "url": "https://launchon.it",
+    "domain_rating": null,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Weekly launch platform where startups and AI tools launch in cohorts with community upvoting."
+  },
+  {
+    "name": "StarTap",
+    "url": "https://startap.cc",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Gamified free startup directory where makers list websites and compete for Stars on daily and all-time leaderboards."
+  },
+  {
+    "name": "Uno Directory",
+    "url": "https://uno.directory",
+    "domain_rating": null,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Curated directory of productivity, AI, design, development, and SaaS tools; free listing with a backlink or paid from $20."
   }
 ]
