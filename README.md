@@ -2,11 +2,11 @@
 
 # 🚀 Startup Launch List
 
-### 593+ directories to submit your startup, SaaS, dev tool, or AI product.
+### 594+ directories to submit your startup, SaaS, dev tool, or AI product.
 
 ### Curated. Categorized. Community-maintained.
 
-[![Directories](https://img.shields.io/badge/Directories-593-blue?style=for-the-badge)](data/directories.json)
+[![Directories](https://img.shields.io/badge/Directories-594-blue?style=for-the-badge)](data/directories.json)
 [![DR Data](https://img.shields.io/badge/With_DR_Data-584-green?style=for-the-badge)](data/directories.csv)
 [![Dofollow](https://img.shields.io/badge/Dofollow-375-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -35,10 +35,10 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | | Count |
 |---|------:|
-| 📁 Total directories | **593** |
+| 📁 Total directories | **594** |
 | 📈 With Domain Rating data | **584** |
 | ✅ Dofollow backlinks | **375** |
-| ❌ Nofollow backlinks | **214** |
+| ❌ Nofollow backlinks | **215** |
 | 🆓 Free or Freemium | **99** |
 
 </div>
@@ -50,7 +50,7 @@ Every founder goes through the same ritual — Googling "where to submit my star
 | 🚀 Startup Directory | 432 | ██████████████████████████████████████████ |
 | ⭐️ Review Directory | 46 | ████ |
 | 👥 Community | 28 | ██ |
-| 🤖 AI Directory | 28 | ██ |
+| 🤖 AI Directory | 29 | ██ |
 | 🗞 Press Coverage | 20 | ██ |
 | 📂 General Directory | 18 | █ |
 | 🧩 SaaS Marketplace | 8 | █ |
@@ -96,7 +96,7 @@ Start here. These give the most SEO value.
 
 Jump to a category:
 
-> 🚀 [Startup Directories](#-startup-directory-432) · ⭐️ [Review Sites](#-review-directory-46) · 👥 [Communities](#-community-28) · 🤖 [AI Directories](#-ai-directory-28) · 🗞 [Press & Media](#-press-coverage-20) · 📂 [General Directories](#-general-directory-18) · 🧩 [SaaS Marketplaces](#-saas-marketplace-8) · 💫 [Other](#-other-5) · 💻 [Software](#-software-directory-2) · 🌍 [International](#-international-2) · 🤝 [API Marketplaces](#-api-marketplace-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire----sell-1)
+> 🚀 [Startup Directories](#-startup-directory-432) · ⭐️ [Review Sites](#-review-directory-46) · 👥 [Communities](#-community-28) · 🤖 [AI Directories](#-ai-directory-29) · 🗞 [Press & Media](#-press-coverage-20) · 📂 [General Directories](#-general-directory-18) · 🧩 [SaaS Marketplaces](#-saas-marketplace-8) · 💫 [Other](#-other-5) · 💻 [Software](#-software-directory-2) · 🌍 [International](#-international-2) · 🤝 [API Marketplaces](#-api-marketplace-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire----sell-1)
 
 ---
 
@@ -685,7 +685,7 @@ Top DR: **91** · Dofollow: **20**
 </details>
 
 
-### 🤖 AI Directory (28)
+### 🤖 AI Directory (29)
 
 Top DR: **91** · Dofollow: **26**
 
@@ -703,7 +703,7 @@ Top DR: **91** · Dofollow: **26**
 | [AI Agents Directory](https://aiagentsdirectory.com) | 43 | ✅ Dofollow | Freemium | Specialized directory focused on AI agents and autonomous AI tools, helping users find AI agents for automation and p... |
 
 <details>
-<summary>View all 28 directories</summary>
+<summary>View all 29 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -735,6 +735,7 @@ Top DR: **91** · Dofollow: **26**
 | [Lachief.io](https://lachief.io) | 21 | ✅ Dofollow | Freemium | AI tools directory and launch platform helping AI product makers get visibility and users discover new AI tools. |
 | [NewAIForYou](https://newaiforyou.com) | 20 | ✅ Dofollow | Freemium | Daily-updated AI tools directory showcasing the newest AI products and tools for various use cases. |
 | [FalcoScan](https://falcoscan.com) | — | — | Freemium | AI market tracker and directory covering 8,000+ AI products across 30 markets; free listing, paid plans for market data. |
+| [Public Prompts](https://www.publicprompts.art) | — | ❌ Nofollow | Paid | Paid-only AI tools directory: US$19.99 one-time fee per submission (refunded if declined), no free listing option, and links are nofollow. |
 
 </details>
 
