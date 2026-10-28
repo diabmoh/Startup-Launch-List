@@ -927,6 +927,15 @@
     "description": "Platform for solo entrepreneurs to promote their projects."
   },
   {
+    "name": "LaunchOnIt",
+    "url": "https://launchon.it",
+    "domain_rating": 46,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Weekly launch platform for indie makers and SaaS founders; free launch (nofollow until you embed the badge), dofollow on $19 and $39 plans."
+  },
+  {
     "name": "A1 Bookmarks",
     "url": "https://www.a1bookmarks.com",
     "domain_rating": 45,
@@ -5308,15 +5317,6 @@
     "pricing": "Free",
     "category": "🚀 Startup Directory",
     "description": "Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters."
-  },
-  {
-    "name": "LaunchOn.it",
-    "url": "https://launchon.it",
-    "domain_rating": null,
-    "link_type": "Dofollow",
-    "pricing": null,
-    "category": "🚀 Startup Directory",
-    "description": "Weekly launch platform where startups and AI tools launch in cohorts with community upvoting."
   },
   {
     "name": "StarTap",

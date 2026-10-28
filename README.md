@@ -7,7 +7,7 @@
 ### Curated. Categorized. Community-maintained.
 
 [![Directories](https://img.shields.io/badge/Directories-594-blue?style=for-the-badge)](data/directories.json)
-[![DR Data](https://img.shields.io/badge/With_DR_Data-584-green?style=for-the-badge)](data/directories.csv)
+[![DR Data](https://img.shields.io/badge/With_DR_Data-585-green?style=for-the-badge)](data/directories.csv)
 [![Dofollow](https://img.shields.io/badge/Dofollow-375-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
@@ -36,10 +36,10 @@ Every founder goes through the same ritual — Googling "where to submit my star
 | | Count |
 |---|------:|
 | 📁 Total directories | **594** |
-| 📈 With Domain Rating data | **584** |
+| 📈 With Domain Rating data | **585** |
 | ✅ Dofollow backlinks | **375** |
 | ❌ Nofollow backlinks | **215** |
-| 🆓 Free or Freemium | **99** |
+| 🆓 Free or Freemium | **100** |
 
 </div>
 
@@ -285,6 +285,7 @@ Top DR: **96** · Dofollow: **274**
 | [AiTools](https://aitools.fyi) | 46 | ✅ Dofollow | — | Find Best AI Tools That Make Your Life Easy! |
 | [Huzzler](https://huzzler.so) | 46 | ✅ Dofollow | — | Platform for discovering and promoting new startup projects. |
 | [SoloPush](https://solopush.com) | 46 | ✅ Dofollow | — | Platform for solo entrepreneurs to promote their projects. |
+| [LaunchOnIt](https://launchon.it) | 46 | ✅ Dofollow | Freemium | Weekly launch platform for indie makers and SaaS founders; free launch (nofollow until you embed the badge), dofollow on $19 and $39 plans. |
 | [Launch](https://trylaunch.ai) | 45 | ✅ Dofollow | — | The best new AI products. Every day. |
 | [Launch Vault](https://www.launchvault.dev) | 45 | ✅ Dofollow | Freemium | Product launch platform for startups. Free submissions with high-quality dofollow backlinks and community engagement. |
 | [Toolfio](https://toolfio.com) | 45 | ✅ Dofollow | — | The ultimate hub for finding and showcasing SaaS products. |
@@ -552,7 +553,6 @@ Top DR: **96** · Dofollow: **274**
 | [EarlyHunt](https://earlyhunt.com) | — | ❌ Nofollow | Freemium | Weekly launch platform and AI tools directory for reaching early adopters; free with badge (nofollow), $19 Premium for dofollow. |
 | [IndieHunt](https://indiehunt.io) | — | ❌ Nofollow | Freemium | Weekly launch competition for AI tools and indie SaaS; free with badge (nofollow), $19 Premium for a guaranteed dofollow link. |
 | [JustLaunched](https://justlaunched.fyi) | — | — | Free | Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters. |
-| [LaunchOn.it](https://launchon.it) | — | ✅ Dofollow | — | Weekly launch platform where startups and AI tools launch in cohorts with community upvoting. |
 | [StarTap](https://startap.cc) | — | — | Free | Gamified free startup directory where makers list websites and compete for Stars on daily and all-time leaderboards. |
 | [Uno Directory](https://uno.directory) | — | ✅ Dofollow | Freemium | Curated directory of productivity, AI, design, development, and SaaS tools; free listing with a backlink or paid from $20. |
 
