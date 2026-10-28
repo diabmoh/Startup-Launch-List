@@ -2,13 +2,13 @@
 
 # 🚀 Startup Launch List
 
-### 582+ directories to submit your startup, SaaS, dev tool, or AI product.
+### 583+ directories to submit your startup, SaaS, dev tool, or AI product.
 
 ### Curated. Categorized. Community-maintained.
 
-[![Directories](https://img.shields.io/badge/Directories-582-blue?style=for-the-badge)](data/directories.json)
-[![DR Data](https://img.shields.io/badge/With_DR_Data-582-green?style=for-the-badge)](data/directories.csv)
-[![Dofollow](https://img.shields.io/badge/Dofollow-370-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
+[![Directories](https://img.shields.io/badge/Directories-583-blue?style=for-the-badge)](data/directories.json)
+[![DR Data](https://img.shields.io/badge/With_DR_Data-583-green?style=for-the-badge)](data/directories.csv)
+[![Dofollow](https://img.shields.io/badge/Dofollow-371-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **[Browse by Category](#-browse-by-category)** · **[Top 20 by DR](#-top-20-highest-authority-directories)** · **[Submission Strategy](#-submission-strategy)** · **[JSON](data/directories.json)** · **[CSV](data/directories.csv)**
@@ -35,11 +35,11 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | | Count |
 |---|------:|
-| 📁 Total directories | **582** |
-| 📈 With Domain Rating data | **582** |
-| ✅ Dofollow backlinks | **370** |
+| 📁 Total directories | **583** |
+| 📈 With Domain Rating data | **583** |
+| ✅ Dofollow backlinks | **371** |
 | ❌ Nofollow backlinks | **212** |
-| 🆓 Free or Freemium | **90** |
+| 🆓 Free or Freemium | **91** |
 
 </div>
 
@@ -47,7 +47,7 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | Category | Count | |
 |----------|------:|---|
-| 🚀 Startup Directory | 423 | ██████████████████████████████████████████ |
+| 🚀 Startup Directory | 424 | ██████████████████████████████████████████ |
 | ⭐️ Review Directory | 45 | ████ |
 | 👥 Community | 28 | ██ |
 | 🤖 AI Directory | 27 | ██ |
@@ -96,14 +96,14 @@ Start here. These give the most SEO value.
 
 Jump to a category:
 
-> 🚀 [Startup Directories](#-startup-directory-423) · ⭐️ [Review Sites](#-review-directory-45) · 👥 [Communities](#-community-28) · 🤖 [AI Directories](#-ai-directory-27) · 🗞 [Press & Media](#-press-coverage-20) · 📂 [General Directories](#-general-directory-18) · 🧩 [SaaS Marketplaces](#-saas-marketplace-8) · 💫 [Other](#-other-5) · 💻 [Software](#-software-directory-2) · 🌍 [International](#-international-2) · 🤝 [API Marketplaces](#-api-marketplace-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire----sell-1)
+> 🚀 [Startup Directories](#-startup-directory-424) · ⭐️ [Review Sites](#-review-directory-45) · 👥 [Communities](#-community-28) · 🤖 [AI Directories](#-ai-directory-27) · 🗞 [Press & Media](#-press-coverage-20) · 📂 [General Directories](#-general-directory-18) · 🧩 [SaaS Marketplaces](#-saas-marketplace-8) · 💫 [Other](#-other-5) · 💻 [Software](#-software-directory-2) · 🌍 [International](#-international-2) · 🤝 [API Marketplaces](#-api-marketplace-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire----sell-1)
 
 ---
 
 
-### 🚀 Startup Directory (423)
+### 🚀 Startup Directory (424)
 
-Top DR: **96** · Dofollow: **269**
+Top DR: **96** · Dofollow: **270**
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -119,7 +119,7 @@ Top DR: **96** · Dofollow: **269**
 | [Fast Company](https://www.fastcompany.com) | **91** | ❌ Nofollow | — | Business media brand focused on innovation, technology, leadership, and world-changing ideas. |
 
 <details>
-<summary>View all 423 directories</summary>
+<summary>View all 424 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -200,6 +200,7 @@ Top DR: **96** · Dofollow: **269**
 | [TinyLaunch](https://www.tinylaunch.com) | **71** | ✅ Dofollow | — | Product launch platform with visibility |
 | [Starter Story](https://www.starterstory.com/share) | **71** | ✅ Dofollow | — | Platform featuring interviews with successful founders sharing how they built and grew their businesses. |
 | [SiteLike](https://www.sitelike.org) | **70** | ❌ Nofollow | Free | Website similarity finder that helps users discover alternative and similar websites to any given domain. |
+| [SaaSCity](https://saascity.io) | **70** | ✅ Dofollow | Freemium | Map-style SaaS and AI tool directory where each listing appears as a building in an interactive city and gets its own indexable page. |
 | [SideProjectors](https://www.sideprojectors.com) | 69 | ❌ Nofollow | — | Community for sharing and discovering side projects. |
 | [Listly](https://list.ly) | 69 | ✅ Dofollow | — | List-making platform allowing users to create, share, and discover crowdsourced lists on any topic. |
 | [Future Tools](https://www.futuretools.io) | 68 | ❌ Nofollow | — | Directory of AI tools and future technology. |

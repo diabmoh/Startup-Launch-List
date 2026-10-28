@@ -423,6 +423,15 @@
     "description": "Website similarity finder that helps users discover alternative and similar websites to any given domain."
   },
   {
+    "name": "SaaSCity",
+    "url": "https://saascity.io",
+    "domain_rating": 70,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Map-style SaaS and AI tool directory where each listing appears as a building in an interactive city and gets its own indexable page."
+  },
+  {
     "name": "Futurepedia",
     "url": "https://www.futurepedia.io",
     "domain_rating": 69,
